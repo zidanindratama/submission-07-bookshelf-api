@@ -208,5 +208,3 @@ npm run start
 ```json
 { "status": "fail", "message": "Buku gagal dihapus. Id tidak ditemukan" }
 ```
-
-\
